@@ -48,7 +48,7 @@ jobs:
             -dname "CN=ScanPro, OU=Mobile, O=ScanPro, L=Regina, ST=SK, C=CA"
 
       - name: Build Signed Release and Debug APKs
-        run: gradle assembleRelease assembleDebug --no-daemon --stacktrace --console=plain
+        run: gradle assembleRelease assembleDebug --no-daemon --console=plain
 
       - name: Prepare APK Outputs
         run: |
