@@ -90,8 +90,8 @@ dependencies {
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.compose.material3:material3")
 
-    // Google ML Kit Document Scanner (CamScanner-grade AI scanning, cropping, filters, PDF)
-    implementation("com.google.android.gms:play-services-mlkit-document-scanner:16.0.0")
+    // Google ML Kit Document Scanner (official published version is 16.0.0-beta1)
+    implementation("com.google.android.gms:play-services-mlkit-document-scanner:16.0.0-beta1")
     implementation("com.google.android.gms:play-services-tasks:18.2.0")
 
     // Google ML Kit Text Recognition (Built-in OCR text extraction)

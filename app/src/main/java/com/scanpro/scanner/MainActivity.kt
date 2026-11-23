@@ -9,7 +9,6 @@ import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.compose.setContent
 import androidx.activity.result.IntentSenderRequest
 import androidx.activity.result.contract.ActivityResultContracts
-import androidx.annotation.DrawableRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -531,7 +530,7 @@ private fun QuickActionsBar(
 
 @Composable
 private fun QuickActionItem(
-    @DrawableRes iconRes: Int,
+    iconRes: Int,
     label: String,
     tint: Color,
     onClick: () -> Unit
