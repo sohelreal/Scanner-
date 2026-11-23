@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,78 C30,80.2 31.8,82 34,82 L74,82 C76.2,82 78,80.2 78,78 L78,40 L64,26 Z" />
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M64,26 L64,40 L78,40 Z" />
+    <!-- Text Lines -->
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M38,44 L60,44 L60,48 L38,48 Z" />
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M38,54 L70,54 L70,58 L38,58 Z" />
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M38,64 L66,64 L66,68 L38,68 Z" />
+    <!-- Scan Laser Bar -->
+    <path
+        android:fillColor="#26A69A"
+        android:pathData="M24,52 L84,52 L84,56 L24,56 Z" />
+    <!-- Corner Scan Brackets -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M24,24 L36,24 L36,28 L28,28 L28,36 L24,36 Z" />
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M84,24 L84,36 L80,36 L80,28 L72,28 L72,24 Z" />
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M24,84 L24,72 L28,72 L28,80 L36,80 L36,84 Z" />
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M84,84 L72,84 L72,80 L80,80 L80,72 L84,72 Z" />
+</vector>
